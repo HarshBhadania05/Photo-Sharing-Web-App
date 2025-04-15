@@ -2,12 +2,12 @@
 
 A full-stack photo sharing platform built with **React**, **Express**, and **MongoDB**. Users can view, share, and interact with photos in a clean and responsive interface.
 
-## Contributors 
-# Product Owner
+# Contributors 
+## Product Owner
 - Dominic Fida
-# Scrum Master
+## Scrum Master
 - Harsh Bhadania
-# Developers
+## Developers
 - Timothy Zhytkou
 - Justin Borishkevich
 - Andra Buchan
