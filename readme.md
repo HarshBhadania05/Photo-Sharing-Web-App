@@ -2,6 +2,16 @@
 
 A full-stack photo sharing platform built with **React**, **Express**, and **MongoDB**. Users can view, share, and interact with photos in a clean and responsive interface.
 
+## Contributors 
+# Product Owner
+- Dominic Fida
+# Scrum Master
+- Harsh Bhadania
+# Developers
+- Timothy Zhytkou
+- Justin Borishkevich
+- Andra Buchan
+
 ## 🚀 Features
 
 - 🖼️ Upload and view photo posts
@@ -31,6 +41,7 @@ A full-stack photo sharing platform built with **React**, **Express**, and **Mon
 - ESLint with Airbnb config
 - Webpack Dev Server
 
+
 ## ⚙️ Installation
 
 ```bash
@@ -49,13 +60,3 @@ npm run build
 
 # Run the backend server
 npm run start
-
-# Contributors 
-## Product Owner
-Dominic Fida
-## Scrum Master
-Harsh Bhadania
-## Developers
-- Timothy Zhytkou
-- Justin Borishkevich
-- Andra Buchan
